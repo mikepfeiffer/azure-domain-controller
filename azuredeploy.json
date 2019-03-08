@@ -213,7 +213,7 @@
       ],
       "properties": {
         "hardwareProfile": {
-          "vmSize": "Standard_F2s_v2"
+          "vmSize": "Standard_D2s_v3"
         },
         "availabilitySet": {
           "id": "[resourceId('Microsoft.Compute/availabilitySets', variables('adAvailabilitySetName'))]"
